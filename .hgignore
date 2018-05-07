@@ -1,0 +1,26 @@
+syntax: glob
+.git/
+*.*~
+_phpinfo.php
+composer.lock
+*.hg.zip
+*.hg.rar
+core/settings/live/password.php
+upload/wysiwyg/.tmb/*
+upload/**/micro/*
+upload/**/mini/*
+upload/**/small/*
+upload/**/medium/*
+upload/**/big/*
+upload/configs/db-migrate.php
+node_modules/
+.nuxt/
+*.orig
+
+syntax: regexp
+^tmp\/
+^\.idea\/
+^\.DS_Store\/
+^phpMyAdmin\/
+^wfMyAdmin\/
+^wfAdminer\/
