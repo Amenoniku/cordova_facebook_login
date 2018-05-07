@@ -1,0 +1,29 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-facebook": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-facebook"
+    },
+    "is_top_level": true,
+    "variables": {
+      "FACEBOOK_DISPLAY_NAME": "phonegap_exapmle",
+      "FACEBOOK_APP_ID": "184318929050765"
+    }
+  },
+  "cordova-plugin-console": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-console"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

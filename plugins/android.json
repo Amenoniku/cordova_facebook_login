@@ -1,0 +1,23 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-facebook": {
+      "FACEBOOK_APP_ID": "184318929050765",
+      "FACEBOOK_DISPLAY_NAME": "phonegap_exapmle",
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "com.example.hello"
+    }
+  },
+  "dependent_plugins": {}
+}

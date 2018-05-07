@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Ame\\Documents\\GitHub\\facebook_login\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in\\values-in.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ame\\.gradle\\wrapper\\dists\\gradle-4.4-all\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.3.0.aar\\149224421e8a7cc84a7c1f3d17ee8d4b\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "178",
+                        "endColumns": "60",
+                        "endOffsets": "234"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
+                    }
+                }
+            ]
+        }
+    ]
+}
